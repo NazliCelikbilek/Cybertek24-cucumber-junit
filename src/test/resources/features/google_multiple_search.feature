@@ -1,4 +1,6 @@
 @google
+@regression
+@Smoke
 Feature: Passing multiple parameters to the step
 
   Scenario: User should be able to search titles

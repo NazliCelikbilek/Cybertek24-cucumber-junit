@@ -1,4 +1,7 @@
 @cloudtables
+@regression
+@Smoke
+
 Feature: DDT example with Cloudtables
 
   Scenario Outline: Adding multiple users to the table

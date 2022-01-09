@@ -1,4 +1,6 @@
 @calculator
+@regression
+@Smoke
 Feature: Calculator Tests
 
   Background:
