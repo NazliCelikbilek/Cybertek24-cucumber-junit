@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Data driven testing using Scenario outline with Examples table
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 74.234 s <<< FAILURE! - in Data driven testing using Scenario outline with Examples table
+Data driven testing using Scenario outline with Examples table.Google capital cities search #1  Time elapsed: 12.488 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Washington[ DC]> but was:<Washington[, D.C.]>
+

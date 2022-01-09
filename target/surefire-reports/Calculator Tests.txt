@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Calculator Tests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 38.321 s <<< FAILURE! - in Calculator Tests
+Calculator Tests.Adding  Time elapsed: 13.837 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Editor | Editing for DataTables]> but was:<[Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science]>
+
+Calculator Tests.Subtracting  Time elapsed: 7.674 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Editor | Editing for DataTables]> but was:<[Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science]>
+
+Calculator Tests.Multiplying  Time elapsed: 7.603 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Editor | Editing for DataTables]> but was:<[Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science]>
+
+Calculator Tests.Dividing  Time elapsed: 9.182 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Editor | Editing for DataTables]> but was:<[Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science]>
+

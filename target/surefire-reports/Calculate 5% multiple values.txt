@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Calculate 5% multiple values
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 43.047 s <<< FAILURE! - in Calculate 5% multiple values
+Calculate 5% multiple values.User calculating 5% values  Time elapsed: 43.047 s  <<< ERROR!
+java.lang.NumberFormatException: For input string: "55.00000000000001"
+

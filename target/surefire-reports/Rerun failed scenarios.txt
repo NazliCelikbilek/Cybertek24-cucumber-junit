@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Rerun failed scenarios
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 10.119 s <<< FAILURE! - in Rerun failed scenarios
+Rerun failed scenarios.two  Time elapsed: 4.337 s  <<< FAILURE!
+java.lang.AssertionError: expected:<5> but was:<10>
+
+Rerun failed scenarios.four  Time elapsed: 5.762 s  <<< FAILURE!
+java.lang.AssertionError: expected:<22> but was:<21>
+

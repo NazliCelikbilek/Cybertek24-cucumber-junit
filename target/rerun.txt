@@ -1,0 +1,4 @@
+file:src/test/resources/features/google_scenario_outline.feature:10
+file:src/test/resources/features/calculator.feature:7:13:19:25
+file:src/test/resources/features/percentage_calculator.feature:4
+file:src/test/resources/features/rerun_demo.feature:8:16
